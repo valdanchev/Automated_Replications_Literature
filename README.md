@@ -12,7 +12,7 @@ Although diverse on the surface, what makes automated replications somewhat cohe
 
 Salganik's distinction in [Bit By Bit: Social Research in the Digital Age](https://www.bitbybitbook.com) between readymade and custommade data is useful here. We extend it to tentatively divide automated approaches to research evaluation into four categories:
 - **Reuse** (e.g., aggregation of published results aka meta-analysis or scalable computational reproducibility)
-- **Repurpose** (e.g., use of Genome-wide association studies and high-throughout experiments to evaluate published research)
+- **Repurpose** (e.g., use of Genome-wide association studies and high-throughout experiments to evaluate published results)
 - **Crowdsource** (e.g., use of prediction markets to aggregate individual beliefs)
 - **Simulate** (e.g., computer simulations)
 
