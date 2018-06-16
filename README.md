@@ -18,10 +18,10 @@ Salganik's distinction in [Bit By Bit: Social Research in the Digital Age](https
 
 ## Review
 
-- [DARPA Wants to Build a BS Detector for Science](https://www.wired.com/story/darpa-bs-detector-science/)
-- [“PICkLE” – Path to Iterative Confidence Level](https://osf.io/8wnzs/)
 - [Reproducibility in Cancer Biology: Making sense of replications](https://elifesciences.org/articles/23383)
 - [What does research reproducibility mean?](http://stm.sciencemag.org/content/8/341/341ps12)
+- [DARPA Wants to Build a BS Detector for Science](https://www.wired.com/story/darpa-bs-detector-science/)
+- [“PICkLE” – Path to Iterative Confidence Level](https://osf.io/8wnzs/)
 
 ## Reuse (Reproducibility)
 
