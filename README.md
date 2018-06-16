@@ -1,4 +1,5 @@
-# Automated Replications: Scalable, Rapid, and Updating\ A Reading List
+# Automated Replications: Scalable, Rapid, and Updating\ 
+A Reading List
 
 This repository is an open collaboration space for curating papers on new approaches that leverage computational tools, big data sources, and machine learning to evaluate the replicability and reproducibility of research results across sciences. 
 
