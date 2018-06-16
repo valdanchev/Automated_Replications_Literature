@@ -31,7 +31,7 @@ Salganik's distinction in [Bit By Bit: Social Research in the Digital Age](https
 ## Repurpose
 
 - [Centralized “big science” communities more likely generate non-replicable results](https://arxiv.org/pdf/1801.05042.pdf)
-- [Large-scale Efforts to Massively Replicate Reported Candidate-gene Associations: Table 1](https://www.gwern.net/docs/statistics/decision/2011-ioannidis.pdf)
+- [Large-scale Efforts to Massively Replicate Reported Candidate-gene Associations (Table 1)](https://www.gwern.net/docs/statistics/decision/2011-ioannidis.pdf)
 - [Repeatability of published microarray gene expression analyses](https://www.nature.com/articles/ng.295)
 
 ## Crowdsource
