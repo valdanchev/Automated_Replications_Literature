@@ -48,7 +48,7 @@ The distinction between readymade and custommade data Salganik made in [Bit By B
 - [Systematizing Confidence in Open Research and Evidence (SCORE)](https://events.sa-meetings.com/ehome/index.php?eventid=340598&)
 - [NIH STRATEGIC PLAN FOR DATA SCIENCE](https://datascience.nih.gov/sites/default/files/NIH_Strategic_Plan_for_Data_Science_Final_508.pdf)
 
-The idea of assembling literature sources was inspired by [pimentel](https://github.com/pimentel/deep_learning_papers/blob/master/README.md), [greenelab](https://github.com/greenelab/deep-review), and [the Social Media Collective](https://socialmediacollective.org/reading-lists/). 
+The idea of assembling literature sources on an emerging topic was inspired by [pimentel](https://github.com/pimentel/deep_learning_papers/blob/master/README.md), [greenelab](https://github.com/greenelab/deep-review), and [the Social Media Collective](https://socialmediacollective.org/reading-lists/). 
 
 ## License
 This project is licensed under the GNU General Public License v3.0—see the [LICENSE.md](LICENSE.md) file for details
