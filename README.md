@@ -9,7 +9,7 @@ This repository attempts to assemble and categorize a body of emerging literatur
 
 **Updating:** can incorporate next results in a continuously updating manner. 
 
-The distinction between readymade and custommade data Salganik made in [Bit By Bit: Social Research in the Digital Age](https://www.bitbybitbook.com) is useful here. We extend Salganik's distinction to tentatively categorize automated approaches to research evaluation into four classes:
+The distinction between readymade and custommade data Salganik made in [Bit By Bit: Social Research in the Digital Age](https://www.bitbybitbook.com) is useful here. We extend Salganik's distinction to tentatively categorize automated approaches to research replicability and reproducibility into four classes:
 - **Reuse** (e.g., aggregation of published results aka meta-analysis or scalable computational reproducibility)
 - **Repurpose** (e.g., use of Genome-wide association studies and high-throughout experiments to evaluate published results)
 - **Crowdsource** (e.g., use of prediction markets to aggregate individual beliefs)
