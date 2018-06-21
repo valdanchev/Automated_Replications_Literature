@@ -1,7 +1,7 @@
 # Automated Replications: Scalable, Rapid, and Updating&nbsp; 
 ## A Reading List
 
-This repository attempts to assemble and categorize a body of emerging literature that leverages computational tools, big data sources, and machine learning to evaluate the replicability and reproducibility of research results across sciences. The focus is on novel works that develop scalable, rapid, and updating approaches to evaluation of research results. Although an evaluation system that is scalable, rapid, and constantly updating is not (yet) in place, each literature source is intended to provide a piece from the puzzle. 
+This repository attempts to assemble and categorize a body of emerging literature that leverages computational tools, big data sources, and machine learning to evaluate the replicability and reproducibility of research results across sciences. The focus is on novel works that develop scalable, rapid, and updating approaches to evaluation of research results. Although an evaluation system that is simultaneosuly scalable, rapid, and constantly updating is not (yet) in place, each literature source adds a piece from the puzzle. 
 
 **Scalable:** can simultaneously evaluate numerous published studies, hypotheses, results, and claims against purpose-build (e.g., prediction markets) or repurposed (e.g., high-throughput experiments) verification data. 
 
