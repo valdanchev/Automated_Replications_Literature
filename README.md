@@ -1,4 +1,4 @@
-# Automated Replications: Scalable, Rapid, and Updating&nbsp; 
+# Data-intensive Replications: Scalable, Rapid, and Updating Approaches to Evaluate Research&nbsp; 
 ## A Reading List
 
 This repository attempts to assemble and categorize a body of emerging literature that leverages computational tools, big data sources, and machine learning to evaluate the replicability and reproducibility of research results across sciences. The focus is on novel works that develop scalable, rapid, and updating approaches to evaluation of research results. Although an evaluation system that is simultaneosuly scalable, rapid, and constantly updating is not (yet) in place, each literature source adds a piece from the puzzle. 
